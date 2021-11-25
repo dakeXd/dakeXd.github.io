@@ -490,6 +490,25 @@ summary {
   cursor: pointer;
 }
 
+.imageTable{
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  border-spacing: 10rem 10rem;
+}
+
+.itchioImage{
+  border: 2px solid rgb(39, 95, 2);
+  border-radius: 20px;
+  vertical-align: text-bottom;
+}
+
+.itchioImage:hover{
+  filter: invert(0.4);
+  background-color: rgb(102.4, 102.4, 102.4);
+  border: 2px solid white;
+}
+
 progress {
   vertical-align: baseline;
 }
