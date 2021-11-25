@@ -498,6 +498,8 @@ summary {
 }
 
 .itchioImage{
+  width: 18.9rem;
+  height: 15rem;
   border: 2px solid rgb(39, 95, 2);
   border-radius: 20px;
   vertical-align: text-bottom;
@@ -509,6 +511,9 @@ summary {
   border: 2px solid white;
 }
 
+.centerAlign{
+  text-align: center;
+}
 progress {
   vertical-align: baseline;
 }
